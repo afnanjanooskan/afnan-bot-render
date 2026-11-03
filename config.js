@@ -4,14 +4,14 @@
 
 module.exports = {
     // Bot Owner Configuration
-    ownerNumber: ['94123456789','917023951514'], // Add your number without + or spaces (e.g., 919876543210)
+    ownerNumber: ['94719929872'], // Add your number without + or spaces (e.g., 919876543210)
     ownerName: ["Afnan's Bot", 'Professor'], // Owner names corresponding to ownerNumber array
     
     // Bot Configuration
     botName: "Afnan's Bot",
     prefix: '.',
     sessionName: 'session',
-    sessionID: process.env.SESSION_ID || '',
+    sessionID: process.env.SESSION_ID || 'KnightBot!H4sIAAAAAAAAA5VU25KiSBT8l3rVGJGLgBEdsSCgNILgXTf2oZoqsAQKhBLECf99A3t6eh52Z3vf6hZ58mTmqe+A5qTCDm7B+DsoSlJDhrslawsMxkC/RhEuQR8gyCAYg8RZrriRYA2WM6lVi2ElzJv2qG0HnMUZywXHZ6Mw4Goa8NULePRBcX1LSfgbwNdX5Bz1Q8V5A2MtHvOR4Q4OQUu2p5No8beA2HORFt6mt1dewKNDhKQkNDaLE85wCVMHtz4k5dfoX2borPj5eaa72LPqhSs6iXktnb1+Q5xJhhP/Hi+mBmS7zdfoI/FtoebY0j3O4g/nWhlcTGu71XeHS/n25hqJeXpLUx/q5/idfkViipGNMGWEtV/WfWrFeNMu7Mk+EaIgnK7PBzWeVo5WzBLeJuHSGsF0e0d6EnyNuKbeDWcliK58SY6jjQ6lw9tgdHUar2XuyHJejYT2vJmRr8RfifvlR1aS/6O7aa/9+9Ua6L3QaLbz6QVFJzofIWEVvrbLFbxRR9TD8CILX6RviUnW3CVfNH33boW844p7P1eHM3qvtzaSjnC32xxwbO3NT/qQXcvfsTzkmRjXfuBLuDXuc13XEJPUHS8FUpDLbL2Zt5XC1D22osl15haTemhzh2UGy73m4/VucAtrXqkrcuOFoJo63oXetObl2VGCWxuB8fDRByWOScVKyEhOn2eq0AcQ1Ssclpg95QVHa3qVEN/4i9uwtwhF93BTtkPZQxMrjAY8t+ZCaVCky926eQF9UJR5iKsKoxmpWF62Lq4qGOMKjP/8qw8ovrF347pywrAPIlJWbEOvRZpD9OHqxyUMw/xK2aql4aRb4BKMuc9jzBihcdXpeKWwDE+kxpMTZBUYRzCt8M8OcYkRGLPyin9O7SRHT+G13d4z5i7og+xpCEFgDFRRHqoqryoyPx4Kf1Tfmg4VFsU3ihnog/T5ipdFnldVSRwKCq8q3cvu4vGTYIeHMIMkrcAYTLx5JimBYXoXm7JwOtXMWJvEGvhs6CMZ78oT21fWxm25we5lZvPIcXbZBC7TC45rCA3YBi2mOz6KbsHLP4B02Uxcvs6mMCav60WzUUeXrcY1+54qVvpJWrSslg03EhpFP6cW1cPwOMh2Oo1SuHw9Swd9z2bFUolxEBwrM9DPZhpPNe2lq4ZwTUL8a7Gmh9xVxJKRozvePZqrmlgrQfm6Ppklb5+pyqeyHBt3r3crZoU8yZOT3kOe5cnMiCFvpunuqEwlt1jqGhkFF2e0bozgPbPPmUl//FXkmabOqm4bEfwcfQo7A//TunfeXcC4R/8XiB9/yb/Mo34gxsBslM12dnZOrUdXJC3iLDlCms/5LOarxKXFkFFB2YDH468+KFLIorzMwBhAisqcINAHZX7tEmvTKP9NsYlu23oQe13jKayY9jkFa5LhisGsAOOhrAqSJEuq8vgbWn9UDzsHAAA=',
     newsletterJid: '', // Newsletter JID for menu forwarding
 
     // Telegram Bot API token (for .tgsticker / .tginfo) — get one from @BotFather.
